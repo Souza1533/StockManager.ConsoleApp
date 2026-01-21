@@ -34,3 +34,29 @@ Este projeto foi desenvolvido com foco no **aprendizado de Programação Orienta
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Souza1533/StockManager.ConsoleApp.git
+Entre na pasta do projeto:
+
+cd StockManager.ConsoleApp
+Execute a aplicação:
+
+dotnet run
+📸 Visão Geral
+Aplicação baseada em console com navegação por menu para gerenciar produtos de forma simples e eficiente.
+
+🎯 Objetivo do Projeto
+Este projeto faz parte da minha jornada de aprendizado em Engenharia de Software, com foco em:
+
+Construir uma base sólida em lógica e POO
+
+Escrever código limpo e legível
+
+Utilizar Git e GitHub de forma profissional
+
+Evoluir gradualmente para projetos mais complexos
+
+👨‍💻 Autor
+Nicolas Henrique de Souza Cunha
+
+📌 Estudante de Engenharia de Software
+📌 Desenvolvedor em formação
+📌 Apaixonado por tecnologia e aprendizado contínuo
