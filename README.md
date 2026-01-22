@@ -26,19 +26,19 @@ Aplicação de console desenvolvida em **C# (.NET)** para gerenciamento simples 
 ## ▶️ Como Executar o Projeto
 
 1. Clone o repositório:
-
+```
 git clone https://github.com/Souza1533/StockManager.ConsoleApp.git
-
+```
 
 2. Entre na pasta do projeto:
-
+```
 cd StockManager.ConsoleApp
-
+```
 
 3. Execute a aplicação:
-
+```
 dotnet run
-
+```
 
 ---
 
